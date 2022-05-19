@@ -4,7 +4,8 @@ import {
   Switch,
   Route,
   Redirect,
-} from "react-router-dom";
+} from "react-router-dom"; 
+//to route the document to specific page we use react-router-dom
 import { v4 as uuidV4 } from "uuid";
 
 function App() {
